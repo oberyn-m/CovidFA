@@ -2,7 +2,7 @@
 
 ## Demonstração
 
-<img src="./img/gh.png" alt="Exemplo 1">
+<img src="./images/gh.png" alt="Exemplo 1">
 
 ## 🚀 Tecnologias utilizadas
 
